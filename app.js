@@ -9,7 +9,7 @@ const apiRouter = require("./routes/api");
 const pagesRouter = require("./routes/pages.js");
 
 const app = express();
-const PORT = 3003;
+const PORT = 3001;
 
 connectToDatabase();
 
